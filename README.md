@@ -1,7 +1,9 @@
 # RoboticsProject12022
 
 Master Degree in Computer Science and Engineering, Politecnico di Milano
+
 Teacher: Prof. Matteo Matteucci, A. Y. 2021/22
+
 Grade: 23/30
 
 ## Abstract
